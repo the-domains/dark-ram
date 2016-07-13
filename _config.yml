@@ -1,14 +1,14 @@
-layout_spectrum: 0.31240691896528006
+layout_spectrum: 0.41548053571023047
 typography_spectrum: 0.858519412111491
 color:
-  brandStrength: 0.464024109300226
-  lightness: 0.3624985571950674
-  saturation: 0.7825734233483672
-  rhythmicContrast: 0.6972045067232102
+  brandStrength: 0.9639413624536246
+  lightness: 0.862039637984708
+  saturation: 0.6666171010583639
+  rhythmicContrast: 0.22840546257793903
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
 name: Dark Ram
