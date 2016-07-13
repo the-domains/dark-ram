@@ -1,4 +1,3 @@
-layout_spectrum: 0.41548053571023047
 typography_spectrum: 0.858519412111491
 color:
   brandStrength: 0.9639413624536246
@@ -11,4 +10,10 @@ color:
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
-name: Dark Ram
+layout_spectrum: 0.41548053571023047
+author:
+  name: Morgan Morey
+  email: info@printedobsession.co.uk
+  url: printedobsession.co.uk
+name: Printed Obsession
+title: ...For all those who enjoy 3D printing
