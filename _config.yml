@@ -1,16 +1,16 @@
-typography_spectrum: 0.1850984008051455
+typography_spectrum: 0.2507559200748801
 color:
-  brandStrength: 0.9639413624536246
-  lightness: 0.862039637984708
-  saturation: 0.6666171010583639
-  rhythmicContrast: 0.22840546257793903
+  brandStrength: 0.15707016945816576
+  lightness: 0.8376340146642178
+  saturation: 0.5342072045896202
+  rhythmicContrast: 0.7653277344070375
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
-layout_spectrum: 0.10945120360702276
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+layout_spectrum: 0.6411062167026103
 author:
   name: Morgan Morey
   email: info@printedobsession.co.uk
