@@ -1,15 +1,15 @@
-typography_spectrum: 0.2507559200748801
+typography_spectrum: 0.19647899828851223
 color:
-  brandStrength: 0.15707016945816576
-  lightness: 0.8376340146642178
-  saturation: 0.5342072045896202
-  rhythmicContrast: 0.7653277344070375
+  brandStrength: 0.4749911071266979
+  lightness: 0.1389922434464097
+  saturation: 0.8869141337927431
+  rhythmicContrast: 0.8786848408635706
   brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 layout_spectrum: 0.6411062167026103
 author:
   name: Morgan Morey
